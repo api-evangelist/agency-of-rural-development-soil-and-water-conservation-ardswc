@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agency Of Rural Development Soil And Water Conservation Ardswc Authentication](https://apis.io/security/agency-of-rural-development-soil-and-water-conservation-ardswc/agency-of-rural-development-soil-and-water-conservation-ardswc-authentication/)
+- [Agency of Rural Development & Soil and Water Conservation (ARDSWC) Authentication](https://apis.io/security/agency-of-rural-development-soil-and-water-conservation-ardswc/agency-of-rural-development-soil-and-water-conservation-ardswc-authentication/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agency Of Rural Development Soil And Water Conservation Ardswc Scopes](https://apis.io/scopes/agency-of-rural-development-soil-and-water-conservation-ardswc/agency-of-rural-development-soil-and-water-conservation-ardswc-scopes/)
+- [Agency of Rural Development & Soil and Water Conservation (ARDSWC) Scopes](https://apis.io/scopes/agency-of-rural-development-soil-and-water-conservation-ardswc/agency-of-rural-development-soil-and-water-conservation-ardswc-scopes/)
 
 ## Where to find this API
 
@@ -96,7 +96,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 4.3** — minimal · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 4.3** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -107,14 +107,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -132,6 +132,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 9.8** — Government & Public Sector
 
